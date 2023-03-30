@@ -16,7 +16,7 @@ const SideCart = ({watchTime}) => {
           <p>total watch time</p>
           <input type="text" value={time}  disabled/>
         </div>
-        <h5 className="mt-5">Add Break time</h5>
+        <h5 className="mt-5">Add Break Time</h5>
         <dutton className="w-25 btn-circle m-1 btn btn-info"
         >
           15
